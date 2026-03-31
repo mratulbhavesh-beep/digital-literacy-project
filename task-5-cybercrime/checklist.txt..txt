@@ -1,0 +1,11 @@
+Cyber Safety Checklist
+
+- Use strong and unique passwords
+- Enable two-factor authentication
+- Do not share OTP or personal information
+- Avoid public Wi-Fi for financial transactions
+- Do not click on suspicious links or messages
+- Regularly update apps and software
+- Use trusted and secure websites only
+- Report cybercrime on https://cybercrime.gov.in
+- Call 1930 in case of financial fraud
