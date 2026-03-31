@@ -24,6 +24,9 @@ The repository is divided into folders for each task:
 
 * task-3-platforms/ has a Google Form quiz on literacy and my coding practice proof.
 
+  LINK:- https://forms.gle/WaZ7XVzkLNiMSmVQ8
+Alt link :- https://docs.google.com/forms/d/e/1FAIpQLSeJJttN08CNyzjrFwXMHgCZBiiOsqp95ZIkyGsNlAcwveEIhg/viewform
+
 * Task 4: Email Etiquette has a media responsible use checklist and professional email drafts.
 
 * Task 5: Cybercrime has a cybercrime case study and online safety prevention checklist.
