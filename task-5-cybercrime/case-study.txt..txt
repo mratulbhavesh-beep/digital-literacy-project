@@ -1,0 +1,27 @@
+Case Study on UPI Fraud
+
+Someone called a student saying they were a bank employee. They told the student that something was wrong with their bank account and they needed an OTP to fix it. The student gave them the OTP without making sure who the caller really was. Then money was taken out of the students bank account without them saying it was okay. This happened fast.
+
+The people who did this are very good at tricking others into trusting them and giving away information. The student did not know this was a scam.
+
+We should always make sure we know who is calling us. We should not click on links from people we do not know. We should only use banking apps that're safe.
+
+This case study, on UPI Fraud shows us that we have to be very careful when we use our phones or computers to do banking. We have to be aware of UPI Fraud and how it works. UPI Fraud can happen to anyone.
+
+Type of Crime:
+- Financial fraud (UPI scam)
+- Phishing / social engineering
+
+Impact:
+- Loss of money
+- Mental stress and panic
+
+Prevention Measures:
+- Never share OTP or banking details
+- Verify calls from official sources
+- Avoid clicking unknown links
+- Use secure banking applications only
+
+
+Name :-Tanushree Solanki
+Reg. no. :- 25BSA10165
