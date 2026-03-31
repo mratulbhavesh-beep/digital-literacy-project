@@ -1,52 +1,51 @@
 # digital-literacy-project
-# Digital Literacy Portfolio – CSE0001
 
-## Student Details
-Name: TANUSHREE SOLANKI
-Registration Number: 25BSA10165  
-Branch: CSE (Cloud Computing)
-Year: First Year  
+digital-literacy-project Digital Literacy Portfolio – CSE0001
 
-# Project Overview
-This repository contains my Digital Literacy Portfolio created as part of the Digital Literacy CSE0001 course. In this project, I have worked as a Student Digital Ambassador to understand and demonstrate important digital skills required for students today.
+Student Details
 
-The project includes tasks related to creating digital content, building a professional online presence, using online platforms for learning, practicing proper communication, and understanding cyber safety. Each task helped me explore how digital tools can be used effectively in academics and daily life.
+Name: TANUSHREE SOLANKI Registration Number: 25BSA10165
 
+Branch: CSE (Cloud Computing) Year: First Year
 
-# Repository Structure
+Overview of the Project
 
-The repository is organized into different folders for each task:
+I made a Digital Literacy Portfolio for my CSE0001 course. As a Student Digital Ambassador I worked on showing skills that students need today.
 
-- **task-1-presentation/**
-  Contains my digital literacy infographic created using an online design tool.
+My project includes creating content having a professional online presence using online learning platforms communicating properly and understanding cyber safety. Each task helped me see how digital tools are useful in life and studies.
 
-  **task-2-portfolio/** 
-  Includes screenshots of my profiles on platforms like GitHub and LinkedIn.
+Structure of Repositories
 
-- **task-3-platforms/**  
-  Contains my coding practice proof and Google Form quiz related to digital literacy.
+The repository is divided into folders for each task:
 
-- **task-4-email-etiquette/**  
-  Includes professional email drafts and a checklist for responsible social media usage.
+* My digital literacy infographic, made with a design tool is in task-1-presentation.
 
-- **task-5-cybercrime/**  
-  Contains a cybercrime case study and a prevention checklist for staying safe online.
+* task-2-portfolio/ has my LinkedIn and GitHub profiles screenshots.
 
-- **report/**  
-  Contains the final project report with detailed explanations and reflections.
+* task-3-platforms/ has a Google Form quiz on literacy and my coding practice proof.
 
-## Tools & Platforms Used
-- Canva – for creating infographic  
-- GitHub – for project submission and version control  
-- LinkedIn – for professional profile  
-- HackerRank – for coding practice  
-- Google Forms – for creating quiz  
+* Task 4: Email Etiquette has a media responsible use checklist and professional email drafts.
 
+* Task 5: Cybercrime has a cybercrime case study and online safety prevention checklist.
 
-## External Links
-- Cyber Crime Portal: https://cybercrime.gov.in  
-- Helpline: 1930  
+* report/ has my project report, with explanations and insights.
 
+Platforms and Tools Used
 
-## Conclusion
-This project helped me understand the importance of digital literacy and how it applies to students in real life. I learned how to use online tools responsibly, communicate professionally, and stay aware of online risks. These skills will be useful throughout my academic journey and future career.
+* Canva: making a inforgraphic
+
+* GitHub: version control and project submission
+
+* LinkedIn: a profile
+
+* HackerRank: practice coding
+
+* Google Forms: making a test
+
+External Links
+
+* Cybercrime Portal: https://cybercrime.gov.in
+
+* Helpline: 1930
+
+This project helped me understand literacy and its uses. I learned to communicate use online resources responsibly and be aware of risks. These skills will help me in academics and my career.
