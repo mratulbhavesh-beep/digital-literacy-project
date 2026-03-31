@@ -30,6 +30,15 @@ The repository is divided into folders for each task:
 
 * report/ has my project report, with explanations and insights.
 
+  ## How to Access the Project
+
+1. Open each folder to see the files for each task.
+
+2. You will find images in PNG format. You can look at them right away.
+
+3. The project report is in the report folder. It is, in PDF format so you can read the project report there.
+
+
 Platforms and Tools Used
 
 * Canva: making a inforgraphic
