@@ -1,0 +1,260 @@
+
+Digital Literacy Project
+
+Name: Tanushree Solanki
+
+Registration number: 25BSA10165
+
+Nowadays being good with technology is really important. This project was part of the Digital Literacy course. The goal of this project is to teach students how to use tools in a way and be responsible when using them.
+
+As a Student Digital Ambassador my job was to look at parts of literacy. I made resources to help other students learn more about using technology and feel more confident when using it.
+
+This project has five parts. Each part looks at something
+
+* making pictures and videos to communicate
+
+* building a professional portfolio
+
+* working with others online
+
+* being polite when talking to people online
+
+* and being aware of cybercrime.
+
+I got to try out tools like Canva, GitHub, LinkedIn, HackerRank and Google Workspace.
+
+Importantly I learned how to use these tools when I am studying. When I have a job.
+
+This project helped me learn how to use platforms in a productive and professional way.
+
+Task 1: Digital Literacy Awareness Infographic (Module 1)
+
+The first task was to understand what digital literacy is and show it in a picture.
+
+I made an infographic using Canva, a tool thats easy to use and has templates to make things look good.
+
+The infographic talked about things like:
+
+* What digital literacy means
+
+* Why it is important to be safe on the internet
+
+* What digital tools are useful for students
+
+* How to make a presence online
+
+When I was working on this part I also looked at different tools for making presentations and designing things, including:
+
+* Canva for making posters and infographics
+
+* Prezi for making presentations
+
+* Miro for making boards that people can work on together
+
+* CoolText for making text look cool
+
+* GIFs for making content more fun and interesting
+
+When I was designing the infographic I tried to balance the words and the pictures.
+
+One hard thing was choosing the points without making the design look too busy.
+
+I realized that communicating ideas in a way is about showing the information clearly not about adding more stuff.
+
+This task helped me get better at communicating my ideas in a way.
+
+Task 2: Building a Digital Portfolio (Module 2)
+
+This task was about making a professional presence online, which's really important for students today.
+
+I updated my profiles on platforms like GitHub, LinkedIn and Kaggle.
+
+This part introduced me to platforms, such as:
+
+* LinkedIn for meeting people in my field and finding job opportunities
+
+* GitHub for managing and showing my projects
+
+* Kaggle for learning about data science and datasets
+
+* Stack Overflow for solving programming questions
+
+* ResearchGate for sharing my research
+
+* Quora for talking about things I know
+
+* TechGig and TED-Ed for learning and developing my skills
+
+When I was setting up my profiles I included information like my education what I am studying and a short introduction.
+
+I learned that even a simple profile can make an impression.
+
+In the future I plan to:
+
+* Upload my projects to GitHub
+
+* Stay active on LinkedIn and meet people
+
+* Use Kaggle to improve my skills
+
+This task helped me realize that building a digital identity is something that I need to keep working on and is important for my career.
+
+Task 3: Programming & Collaborative Platforms (Module 3)
+
+In this task I looked at programming platforms and tools that people can use to work
+
+For practicing coding I used HackerRank to solve a beginner-level problem.
+
+This helped me understand how coding platforms work and how they can improve my thinking.
+
+I also learned about:
+
+* CodeChef for programming
+
+* CodeTantra, which is used in schools
+
+* HackerEarth, which's another platform for coding
+
+For working with others I used Google Workspace tools:
+
+* Google Docs for writing and sharing documents
+
+* Google Slides for making presentations
+
+* Google Sheets for organizing and analyzing data
+
+* Google Forms for making surveys and quizzes
+
+I made a Google Form with five questions about literacy including multiple-choice and short-answer questions.
+
+I looked at the answers in Google Sheets, which showed me how data is collected and stored automatically.
+
+This task helped me understand:
+
+* How students can practice coding
+
+* How tools for working can make group work easier
+
+* How digital tools can help me be productive
+
+Task 4: Email Etiquette & Social Media Etiquette (Module 4)
+
+This part was about communicating with people in a way which's an important skill for students.
+
+I wrote two emails:
+
+* Asking for time to finish an assignment
+
+* Applying for an internship
+
+When I was writing these emails I followed a structure:
+
+* A clear and relevant subject line
+
+* A formal greeting
+
+* An organized body
+
+* A closing and signature
+
+Important things I learned include:
+
+* Always being professional and polite
+
+* Not using language or abbreviations
+
+* Keeping messages clear and short
+
+* Respecting the person I am writing to
+
+I also made a list of things to do. Not to do on social media.
+
+Some important points:
+
+**Do’s**
+
+* Share content
+
+* Keep my privacy settings safe
+
+* Think before posting
+
+**Don’ts**
+
+* Do not share sensitive information
+
+* Do not post offensive content
+
+* Do not spread false information
+
+A common problem is sending emails that are not clear or are too informal to professors, which can lead to misunderstandings.
+
+This part showed me how important it is to communicate in a way to make an impression.
+
+Task 5: Cybercrime Awareness & Prevention (Module 5)
+
+This task was about understanding cybercrime and how to be safe online.
+
+I studied types of cybercrimes such as:
+
+* Phishing attacks
+
+* Online payment fraud
+
+* Identity theft
+
+* Cyberbullying
+
+This part also explained:
+
+* How cybercrimes happen step-by-step
+
+* Who is usually targeted
+
+* The impact on individuals and society
+
+I learned that financial frauds are common and often happen because people do not know enough.
+
+Many people share their passwords click on links without thinking.
+
+I made a list of things to do to prevent cybercrime, including:
+
+* Never sharing my passwords or OTPs
+
+* Avoiding links and messages
+
+* Using trusted payment apps
+
+* Updating my passwords regularly
+
+* Reporting fraud on the cybercrime website
+
+* Calling the helpline in case of fraud
+
+This task helped me become more aware of the risks online and encouraged me to be safe when using digital platforms.
+
+This project helped me understand what digital literacy is and why it is important today.
+
+Through the tasks I learned how to use tools effectively build a professional presence and communicate in a professional way in academic and professional settings.
+
+I also became more aware of the dangers. The importance of being careful when using digital platforms.
+
+The things I learned from this project will help me during my time in college and in my career.
+
+Overall this project made me more confident, in using technology in a way. Inspired me to keep improving my digital skills.
+
+References
+
+* Canva
+
+* GitHub
+
+* LinkedIn
+
+* HackerRank
+
+* Google Forms
+
+* National Cyber Crime Portal
+
+Reg no: 25BSA10165
